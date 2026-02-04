@@ -6,7 +6,7 @@
 ## 🖥️ 프로젝트 소개
 본 프로젝트는 사용자가 입력한 **가게명/후기 정보**를 바탕으로  
 **RAG(Retrieval-Augmented Generation)** 기반으로 데이터를 검색하고,  
-LLM이 근거 기반으로 맛집 여부를 판단해주는 **맛집 판별 AI 챗봇**입니다.
+LLM이 근거 기반으로 맛집 여부를 판단해주는 **맛집 판별 AI 챗봇**이다.
 
 ---
 
@@ -27,17 +27,10 @@ LLM이 근거 기반으로 맛집 여부를 판단해주는 **맛집 판별 AI �
 
 ## ⚙️ 개발 환경
 - **Python** 3.11+  
-- **IDE** : VSCode / PyCharm  
+- **IDE** : VSCode
 - **Frontend** : Streamlit  
 - **Vector DB** : ChromaDB  
 - **LLM API** : OpenAI API  
-- **Framework / Library**
-  - `streamlit`
-  - `langchain`
-  - `langchain-chroma`
-  - `langchain-openai`
-  - `chromadb`
-  - `httpx`
 
 ---
 
